@@ -46,3 +46,7 @@ JAVASCRIP DASAR
 <img width="960" alt="daftar menu 3" src="https://user-images.githubusercontent.com/101730390/163009276-260a0db6-2e8d-43b8-8170-0fd7652eb945.png">
 
 11. Buat script untuk melakukan validasi pada isian form
+<img width="960" alt="form validasi 1" src="https://user-images.githubusercontent.com/101730390/163189351-7fc07a8f-77cd-4fae-91d9-af3ef7ab8f93.png">
+<img width="960" alt="form validasi 3" src="https://user-images.githubusercontent.com/101730390/163189409-c8a3682a-8a19-42b7-88c6-0bc135e55aaa.png">
+<img width="960" alt="form validasi 2" src="https://user-images.githubusercontent.com/101730390/163189472-645b6bf3-d807-4e31-9cf3-04783e93e47f.png">
+
